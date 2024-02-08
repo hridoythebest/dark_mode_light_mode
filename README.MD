@@ -1,0 +1,3 @@
+# DARK MODE & LIGHT MODE THEME SWITCHER WITH TAILWINDCSS
+
+![DEMO](https://user-images.githubusercontent.com/115061491/220869103-52edeb88-3b0c-4380-aba8-446625426a71.jpg)
